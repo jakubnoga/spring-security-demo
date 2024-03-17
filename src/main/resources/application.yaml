@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: securitydemo
+logging:
+  level:
+    org:
+      springframework:
+        security: TRACE
